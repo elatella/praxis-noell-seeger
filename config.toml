@@ -1,0 +1,17 @@
+title = "Praxis Nöll-Seeger"
+baseURL = "https://elatella.github.io/praxis-noell-seeger/"
+languageCode = "de-de"
+theme = "hugo-scroll"
+publishDir = "docs"
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+[params]
+  title = "Praxis Nöll-Seeger"
+  description = "Praxis für Osteopathie"
+  copyright = "© Angelika Nöll-Seeger"
+  favicon = "images/logo.svg"
+  images = ["images/logo.svg"]
+  hidedesignbyline = true
+
+[params.meta]
+  keywords = "osteopathie heilpraktik angelika noell seeger erzhausen"
