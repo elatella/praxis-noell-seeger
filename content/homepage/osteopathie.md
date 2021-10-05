@@ -3,6 +3,8 @@ title: "Osteopathie"
 weight: 1
 ---
 
+![Logo](images/logo.png)
+
 Alles Leben ist Bewegung. Dort wo keine Bewegung ist, beginnt Krankheit. (A. T. Still)
 
 Osteopathie ist die hohe Kunst der manuellen Medizin. Von A.T. Still im 19.Jh. in den USA begründet, bildet sie eine eigenständige Form der Medizin. Ihre Prinzipien basieren auf Erkenntnissen naturwissenschaftlicher Grundlagenforschung in den Bereichen der Anatomie und Neuro-Physiologie.
