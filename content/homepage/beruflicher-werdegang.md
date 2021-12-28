@@ -7,7 +7,7 @@ ABITUR in Darmstadt
 
 AUSBILDUNG zur Physiotherapeutin Universität Mainz und Heidelberg
 
-ARBEITEN in neurologischen orthopädischen und chirurgischen Klinigen und Praxen an verschiedenen Orten Deutschlands, Schweiz, USA und Frankreich
+ARBEITEN in neurologischen, orthopädischen und chirurgischen Kliniken und Praxen an verschiedenen Orten Deutschlands, Schweiz, USA und Frankreich
 
 FORTBILDUNGEN PNF, Bobath, Vojta, Man Therapie, Man Lymphdrainage, Entspannungstechniken
 
