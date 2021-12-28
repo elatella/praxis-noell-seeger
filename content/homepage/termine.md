@@ -19,7 +19,7 @@ Heinrichstrasse 15a, 64390 Erzhausen
   style="border:0"
   loading="lazy"
   allowfullscreen
-  src="https://www.google.com/maps/embed/v1/place?q=praxis%20n%C3%B6ll%20seeger&key=AIzaSyAA1zCq3Lc1xUAJwwZqHQeTh2wSx0dXUf4">
+  src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJP7ysxX9zvUcRMA8J_Pdt-vA&key=AIzaSyAA1zCq3Lc1xUAJwwZqHQeTh2wSx0dXUf4">
 </iframe>
 
 Parkplatz vor dem Haus
