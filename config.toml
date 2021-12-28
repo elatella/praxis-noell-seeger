@@ -9,8 +9,8 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
   title = "Praxis Nöll-Seeger"
   description = "Praxis für Osteopathie"
   copyright = "© Angelika Nöll-Seeger"
-  favicon = "images/logo.svg"
-  images = ["images/logo.svg"]
+  favicon = "images/logo.webp"
+  images = ["images/logo.webp"]
   hidedesignbyline = true
 
 [params.meta]

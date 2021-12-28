@@ -1,6 +1,6 @@
 # Website Praxis Nöll-Seeger
 
-A website built with [Hugo](https://gohugo.io/).
+The website of Praxis Nöll-Seeger.
 
 ## Build
 

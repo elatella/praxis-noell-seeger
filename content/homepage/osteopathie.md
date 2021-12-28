@@ -3,7 +3,7 @@ title: "Osteopathie"
 weight: 1
 ---
 
-![Logo](images/logo.png)
+![Logo](images/logo.webp)
 
 Alles Leben ist Bewegung. Dort wo keine Bewegung ist, beginnt Krankheit. (A. T. Still)
 

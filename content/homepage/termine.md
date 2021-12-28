@@ -14,6 +14,7 @@ Per Mail angelikanoellseeger@gmail.com
 Heinrichstrasse 15a, 64390 Erzhausen
 
 <iframe
+  title="Map"
   width="600"
   height="450"
   style="border:0"
