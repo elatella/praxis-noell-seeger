@@ -15,3 +15,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
 [params.meta]
   keywords = "osteopathie heilpraktik angelika noell seeger erzhausen"
+
+# This is required for the embedded Google map
+[markup.goldmark.renderer]
+unsafe = true
